@@ -1,5 +1,8 @@
 ﻿# Swagger-Tool
 Swagger-Tool
+•	Use the below URL to access the documentation page.
+•	http://localhost:8080/swagger-ui/index.html
+
 
 Swagger-Tool is a Spring Boot REST API project designed to develop, test, and document APIs using Swagger/OpenAPI. It provides an easy way to view API endpoints and test requests and responses.
 Swagger-Tool
